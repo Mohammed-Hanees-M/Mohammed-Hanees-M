@@ -5,7 +5,7 @@
 <a href="https://github.com/Mohammed-Hanees-M">
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Hanees-M&label=Profile%20Views&color=8a2be2&style=for-the-badge" />
 </a>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8a2be2&label=Followers&query=followers&suffix=%20devs&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohammed-Hanees-M" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8a2be2&label=Followers&query=%24.followers&suffix=%20devs&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohammed-Hanees-M" />
 <img src="https://img.shields.io/github/stars/Mohammed-Hanees-M?style=for-the-badge&color=8a2be2&label=Stars" />
 
 <br/>
